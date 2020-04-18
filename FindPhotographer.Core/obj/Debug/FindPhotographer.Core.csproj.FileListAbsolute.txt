@@ -1,0 +1,12 @@
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\FindPhotographer.Core.dll.config
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\FindPhotographer.Core.dll
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\FindPhotographer.Core.pdb
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\EntityFramework.dll
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\EntityFramework.xml
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\obj\Debug\FindPhotographer.Core.csprojAssemblyReference.cache
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\obj\Debug\FindPhotographer.Core.csproj.CoreCompileInputs.cache
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\obj\Debug\FindPhotographer.Core.csproj.CopyComplete
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\obj\Debug\FindPhotographer.Core.dll
+C:\Users\tuba\Source\Repos\FindPhotographer\FindPhotographer.Core\obj\Debug\FindPhotographer.Core.pdb
